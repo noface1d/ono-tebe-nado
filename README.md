@@ -1,1 +1,1 @@
-https://github.com/noface1d/first-project - Ссылка на мой проект
+https://github.com/noface1d/ono-tebe-nado - Ссылка на мой проект
